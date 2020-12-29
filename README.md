@@ -17,4 +17,5 @@ in the algorithms for better results.
 
  # Attribute Information
 'vidid' : Unique Identification ID for each video
+
 'adview' : The number of adviews for each video
